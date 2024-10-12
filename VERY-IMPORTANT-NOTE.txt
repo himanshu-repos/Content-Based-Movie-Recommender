@@ -1,0 +1,1 @@
+I didn't uploaded  the smilarity matrix bcz of its size , so just run the jupyter file and you can get that similarity.pkl file
